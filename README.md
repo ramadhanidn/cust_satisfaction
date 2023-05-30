@@ -7,3 +7,6 @@ By combining the power of Python for data manipulation and automation and Excel 
 Learn how to calculate the Customer Satisfaction Index (CSI) using Python and Excel in this tutorial. 
 Discover how Python can automate data processing and analysis, while Excel provides dynamic visualization through functions like SUMIF, 
 COUNTIF, and Pivot Tables. Streamline your CSI calculation process, generate insightful reports, and make data-driven decisions to enhance customer satisfaction.
+
+Youtube:
+https://www.youtube.com/watch?v=5KemR2w_nyE
